@@ -1,5 +1,5 @@
 #include <stdio.h>
-int a, r, star, i, j;
+int a, r, star;
 void square(int);
 
 int main()
